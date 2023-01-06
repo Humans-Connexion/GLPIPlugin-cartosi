@@ -20,6 +20,6 @@ Applications from Carto-SI are imported on the menu Plugin/Carto-SI.
 On your host glpi :
 Go on /var/www/html/plugins/
 ```sh
-cd /var/www/html/plugins/
+cd /var/www/html/glpi/plugins/
 git clone https://github.com/HayZun/cartosi.git
 ```
