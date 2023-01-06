@@ -17,5 +17,5 @@ if you totally create your plugin repository from the worktree of this one.
 
 ```sh
 cd /my/glpi/deployment/main/directory/plugins
-git clone git@github.com:pluginsGLPI/glpi-example-plugin.git example
+git clone https://github.com/Humans-Connexion/GLPIPlugin-cartosi.git
 ```
