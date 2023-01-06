@@ -1,4 +1,4 @@
-# GLPi Example Plugin
+# GLPI Plugin CartoSI
 
 ## Introduction
 
